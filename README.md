@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.E. in AI & Data Science (2025) – Global Academy of Technology, Bengaluru<br><br>💻 Skilled in Python, TensorFlow, Keras, Pandas, NumPy<br><br>🤖 Experienced in Machine Learning, Deep Learning, NLP, and Explainable AI (LIME, SHAP)<br><br>🛠 Worked on projects like AI-Powered Cybersecurity Threat Detection & Manufacturing Defect Detection with ANN<br><br>📄 2 Published Research Papers in AI & Decision-Making Models<br><br>🚀 Passionate about building scalable, interpretable, and impactful AI solutions<br><br>🌱 Currently exploring full-stack AI applications and real-time ML deployments
+🎓 B.E. in AI & Data Science (2025) – Global Academy of Technology, Bengaluru<br>💻 Skilled in Python, TensorFlow, Keras, Pandas, NumPy<br>🤖 Experienced in Machine Learning, Deep Learning, NLP, and Explainable AI (LIME, SHAP)<br><br>🛠 Worked on projects like AI-Powered Cybersecurity Threat Detection & Manufacturing Defect Detection with ANN<br><br>📄 2 Published Research Papers in AI & Decision-Making Models<br><br>🚀 Passionate about building scalable, interpretable, and impactful AI solutions<br><br>🌱 Currently exploring full-stack AI applications and real-time ML deployments
 
 
 ## 🌐 Socials:
